@@ -1,5 +1,5 @@
 
-# Spatio-Temporal Fire Activity Prediction in Kalimantan
+# Spatio-Temporal Fire Activity Prediction in Kalimantan and Sumatera, Indonesia
 
 An undergraduate thesis project on predicting next-day fire activity at the spatial grid-cell level in Kalimantan and Sumatera, Indonesia, using historical satellite-based fire observations and meteorological conditions.
 
