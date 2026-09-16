@@ -1,0 +1,23 @@
+# Data
+data/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.key
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
